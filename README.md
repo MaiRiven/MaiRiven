@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaiRiven
-- 👀 I’m interested in money and things
+- 👀 I’m interested in cats and books
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me ... please hesitate <3
