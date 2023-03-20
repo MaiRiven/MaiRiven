@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaiRiven
-- 👀 I’m interested in maps, mountains and books
+- 👀 I’m interested in maps, mountains, books and coding!
 - 🌱 I’m currently learning Javascript, HTML, SQL, CSS and Python
 - 📫 How to reach me: www.linkedin.com/in/mairiwood
