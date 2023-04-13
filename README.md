@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MaiRiven
 - 👀 I’m interested in maps, mountains, books and coding!
-- 🌱 I’m currently learning Javascript, HTML, SQL, CSS and Python
+- 🌱 I’m currently learning Python and Typescript.
+- 🖥️ I am currently working on a frost notification app to help warn users about upcoming frosty weather! 
 - 📫 How to reach me: www.linkedin.com/in/mairiwood
