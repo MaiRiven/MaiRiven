@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MaiRiven
 - 👀 I’m interested in maps, mountains, space, books and coding!
-- 🖥️ I am currently working on a frost notification app to help warn gardeners about upcoming frosty weather.
 - 📫 How to reach me: www.linkedin.com/in/mairiwood
