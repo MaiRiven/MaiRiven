@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @MaiRiven
-- 👀 I’m interested in maps, mountains, space, books and coding!
-- 📫 How to reach me: www.linkedin.com/in/mairiwood
+
